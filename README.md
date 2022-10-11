@@ -20,7 +20,7 @@
 <br>
 <h3 align="left">Tecnologias:</h3>
 
- <p align="center">&nbsp;![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)</p>
+ <p align="center">&nbsp;<img align="center" src="https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg"/></p>
 
 <br>
 
