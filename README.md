@@ -13,7 +13,8 @@
 </p>
 <h3 align="center">Developer FullStack egresado de Henry, apasionado por la programación desde chico y amante de los caballos</h3>
 
-<h4 align="center">Mi objetivo pe</h3>
+<h4 align="center">Mi objetivo personal es desarrollarme como programador web y seguir aprendiendo nuevas tecnologias, asi como nuevos lenguajes.</h4>
+<h4 align="center">A futuro me encantaria adentrarme en el desarrollo y optimización de algoritmos.</h4>
 <br>
 
 
