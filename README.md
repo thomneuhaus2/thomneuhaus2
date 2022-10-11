@@ -13,12 +13,11 @@
 </p>
 <h3 align="center">FullStack Developer egresado de Henry, apasionado por la programación desde chico y amante de los caballos</h3>
 
-<p align="center">Mi objetivo personal es desarrollarme como programador web y seguir aprendiendo nuevas tecnologias, asi como nuevos lenguajes.
-A futuro me encantaria adentrarme en el desarrollo y optimización de algoritmos.</p>
+<p align="center">Desde joven he participado en diversos proyectos de programación y robótica tanto grupales como individuales. Mi objetivo personal es seguir desarrollarme como programador y seguir aprendiendo nuevas tecnologias, asi como nuevos lenguajes.
+  <br>
+A futuro mi objetivo es no solamente seguir creciendo como programador sino tambien adentrarme en el desarrollo y optimización de algoritmos.</p>
 
 <br>
-
-
 <h3 align="left">Tecnologias:</h3>
 
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
