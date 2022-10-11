@@ -11,8 +11,9 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">Developer FullStack egresado de Henry</h3>
+<h3 align="center">Developer FullStack egresado de Henry, apasionado por la programación desde chico y amante de los caballos</h3>
 
+<h4 align="center">Mi objetivo pe</h3>
 <br>
 
 
@@ -24,5 +25,5 @@
 
 
   <a href="https://github.com/thomneuhaus2">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thomneuhaus2&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Thomas's github stats" height="220px" />
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomneuhaus2&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Thomas's github stats" height="220px" /></p>
   </a>
