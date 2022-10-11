@@ -11,9 +11,9 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">FullStack Developer egresado de Henry, apasionado por la programación desde chico y amante de los caballos</h3>
+<h3 align="left">FullStack Developer egresado de Henry, apasionado por la programación desde chico y amante de los caballos</h3>
 
-<p align="center">Desde joven he participado en diversos proyectos de programación y robótica tanto grupales como individuales. Mi objetivo personal es seguir desarrollarme como programador y seguir aprendiendo nuevas tecnologias, asi como nuevos lenguajes.
+<p align="left">Desde joven he participado en diversos proyectos de programación y robótica tanto grupales como individuales. Mi objetivo personal es seguir desarrollarme como programador y seguir aprendiendo nuevas tecnologias, asi como nuevos lenguajes.
   <br>
 A futuro mi objetivo es no solamente seguir creciendo como programador sino tambien adentrarme en el desarrollo y optimización de algoritmos.</p>
 
