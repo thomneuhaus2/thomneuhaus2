@@ -11,10 +11,11 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">Developer FullStack egresado de Henry, apasionado por la programación desde chico y amante de los caballos</h3>
+<h3 align="center">FullStack Developer egresado de Henry, apasionado por la programación desde chico y amante de los caballos</h3>
 
-<h4 align="center">Mi objetivo personal es desarrollarme como programador web y seguir aprendiendo nuevas tecnologias, asi como nuevos lenguajes.</h4>
-<h4 align="center">A futuro me encantaria adentrarme en el desarrollo y optimización de algoritmos.</h4>
+<p align="center">Mi objetivo personal es desarrollarme como programador web y seguir aprendiendo nuevas tecnologias, asi como nuevos lenguajes.
+A futuro me encantaria adentrarme en el desarrollo y optimización de algoritmos.</p>
+
 <br>
 
 
